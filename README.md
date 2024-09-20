@@ -1,4 +1,5 @@
 # Emotion-Detection-DenseNet
+![Output Video](https://github.com/PranavInani/Emotion-Detection-DenseNet/blob/main/Output%20Video.gif)
 This project implements a deep learning model using DenseNet to classify emotions from facial images. The model is trained on the FER2013 dataset, which contains labeled facial expressions categorized into various emotion classes.
 Requirements
 
